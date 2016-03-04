@@ -1,0 +1,28 @@
+name: "BIJOU'S FASHIONS"
+favicon: null
+layout_spectrum: 0.1844101424794644
+typography_spectrum: 0.7149277641437948
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7853818305302411
+  lightness: 0.26302918535657227
+  saturation: 0.3057361932005733
+  rhythmicContrast: 0.5880552039016038
+purpose: []
