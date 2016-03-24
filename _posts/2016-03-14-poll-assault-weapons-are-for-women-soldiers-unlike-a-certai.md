@@ -15,8 +15,8 @@ description: >-
   Johnson's doodle, which honors her African-American heritage, is featured
   prominently on the Internet giant's home page on Monday. It was selected from
   100,000 submissions to the "Doodle 4 Google" competition for young artists.
-datePublished: '2016-03-21T19:35:46.629Z'
-dateModified: '2016-03-21T19:35:46.404Z'
+datePublished: '2016-03-24T18:12:26.315Z'
+dateModified: '2016-03-24T18:12:22.301Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-14-poll-assault-weapons-are-for-women-soldiers-unlike-a-certai.md
@@ -31,6 +31,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/98c00a2784a775295bda25fea7feddb1cc1f402c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4fca4c-1d49-462b-9e16-316b86e3374f.jpg)
 
 SAN FRANCISCO --- Akilah Johnson, a 10th grader from Washington, D.C., is Google's top student doodler.
@@ -43,7 +44,6 @@ Among those featured in the doodle are Nelson Mandela, Malcolm X, Rosa Parks, Ru
 How does it feel to have her artwork illustrate the Google home page for hundreds of millions to see?
 "Amazing," Johnson, 15, said in an interview shortly after winning the competition, her eyes glued to her phone as comments flooded social media.
 "I didn't think I was going to win," she said. "Then when I got up there and it hit me, I started crying so hard. It was unbelievable."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f57d8b2-1b97-40d0-8c82-b1ddb7a823ee.jpg)
 
 Poll: Assault Weapons Are for Women Soldiers Unlike a certain formerly bow-tied genius, who compared allowing women in combat roles to domestic abuse, American voters support allowing women in combat by an overwhelming 75 percent, including 77 percent among women, 86 percent among Democrats and a not-too-shabby 63 percent among Republicans.
 ![](https://s-media-cache-ak0.pinimg.com/564x/39/8f/27/398f27bce5e0801f8eda911cfe437229.jpg)
