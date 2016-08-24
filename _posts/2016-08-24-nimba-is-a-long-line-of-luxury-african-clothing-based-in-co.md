@@ -2,14 +2,14 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-24T04:33:11.985Z'
+datePublished: '2016-08-24T04:43:14.009Z'
+dateModified: '2016-08-24T04:41:55.814Z'
 publisher: {}
 author: []
 inFeed: true
 description: ' Nimba is a long line of Luxury African clothing based in Cote d''lvoire (Ivory Coast ). This is the Long dress Nimba classic and beautiful .'
 via: {}
-datePublished: '2016-08-24T04:35:08.311Z'
-starred: false
+starred: true
 sourcePath: >-
   _posts/2016-08-24-nimba-is-a-long-line-of-luxury-african-clothing-based-in-co.md
 _type: Blurb
