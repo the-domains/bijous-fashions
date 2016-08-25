@@ -2,14 +2,14 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-25T04:08:51.005Z'
+datePublished: '2016-08-25T04:15:17.359Z'
+dateModified: '2016-08-25T04:13:15.472Z'
 publisher: {}
 author: []
 inFeed: true
 description: 'Beautiful Africa '
 via: {}
-datePublished: '2016-08-25T04:09:04.794Z'
-starred: false
+starred: true
 sourcePath: _posts/2016-08-25-beautiful-africa.md
 _type: Blurb
 
