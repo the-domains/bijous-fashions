@@ -1,20 +1,15 @@
-name: "BIJOU'S FASHIONS"
-favicon: null
+name: BIJOU'S FASHIONS
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f9abb5-eacd-46a9-9dce-4e7096397a85.jpg
 layout_spectrum: 0.1844101424794644
 typography_spectrum: 0.7149277641437948
-title: "Bijou's is the Seamless Merger of you and Elegant Accessories"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: 'https://m.facebook.com/BijousFashions/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/755b1ecf-ff98-4ace-a9f1-cce3388393ab.jpg
 color:
   brandColors:
     - '#f4f4f4'
@@ -27,3 +22,10 @@ color:
   saturation: 0.375
   rhythmicContrast: 0.5880552039016038
 purpose: []
+title: Bijou's is the Seamless Merger of you and Elegant Accessories
+author:
+  name: Davie Hodge
+  url: ''
+  email: ''
+content_rating:
+  adult: false
