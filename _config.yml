@@ -1,8 +1,8 @@
 name: BIJOU'S FASHIONS
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f9abb5-eacd-46a9-9dce-4e7096397a85.jpg
-layout_spectrum: 0.1844101424794644
-typography_spectrum: 0.7149277641437948
+layout_spectrum: 0.2112871495351232
+typography_spectrum: 0.7782128261317416
 cta: {}
 analytics: {}
 opengraph:
@@ -12,20 +12,30 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/755b1ecf-ff98-4ace-a9f1-cce3388393ab.jpg
 color:
   brandColors:
-    - '#f4f4f4'
-    - '#090b08'
-    - '#30322d'
-    - '#87a0c6'
-    - '#d6c1d4'
-  brandStrength: 0.7853818305302411
-  lightness: 0.26302918535657227
-  saturation: 0.375
-  rhythmicContrast: 0.5880552039016038
-purpose: []
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.7904319676548465
+  lightness: 0.7776409117779741
+  saturation: 0.4724381985560539
+  rhythmicContrast: 0.9597592123184758
+purpose:
+  - type: external
+    label: 'Bijous Fashions is the Seamless Merger OF You and Elegant Fashion '
+    url: 'https://www.facebook.com/BijousFashions/'
 title: Bijou's is the Seamless Merger of you and Elegant Accessories
+description: ''
 author:
   name: Davie Hodge
   url: www.syftkogtech.com
   email: daviehodge@syftkogtech.com
 content_rating:
   adult: false
+navigation:
+  - name: About us and more ...
+    url: 'http://bijousfashions.tumblr.com/'
+    type: external
+content: []
+github: true
