@@ -1,8 +1,19 @@
+layout_spectrum: 0.9507777405732154
+typography_spectrum: 0.28678773314950273
+color:
+  brandColors:
+    - '#000000'
+    - '#E4BC81'
+    - '#C28453'
+    - '#007265'
+    - '#CD1F16'
+  brandStrength: 0.47471338055714374
+  lightness: 0.1988473402083584
+  saturation: 0.11936995880300234
+  rhythmicContrast: 0.009326572366298573
 name: BIJOU'S FASHIONS
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f9abb5-eacd-46a9-9dce-4e7096397a85.jpg
-layout_spectrum: 0.2112871495351232
-typography_spectrum: 0.7782128261317416
 cta: {}
 analytics: {}
 opengraph:
@@ -10,17 +21,6 @@ opengraph:
   appId: 'https://m.facebook.com/BijousFashions/'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/755b1ecf-ff98-4ace-a9f1-cce3388393ab.jpg
-color:
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  brandStrength: 0.7904319676548465
-  lightness: 0.7776409117779741
-  saturation: 0.4724381985560539
-  rhythmicContrast: 0.9597592123184758
 purpose: []
 title: Bijou's is the Seamless Merger of you and Elegant Accessories
 description: ''
