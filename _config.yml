@@ -21,7 +21,10 @@ opengraph:
   appId: 'https://m.facebook.com/BijousFashions/'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/755b1ecf-ff98-4ace-a9f1-cce3388393ab.jpg
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:sheena@bijousfashions.biz'
+    label: Contact me
 title: Bijou's is the Seamless Merger of you and Elegant Accessories
 description: ''
 author:
