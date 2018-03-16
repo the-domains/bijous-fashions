@@ -1,7 +1,7 @@
 ---
 title: 'Here Comes the Queen '
-datePublished: '2018-03-16T19:35:45.918Z'
-dateModified: '2018-03-16T18:57:03.870Z'
+datePublished: '2018-03-16T19:41:45.536Z'
+dateModified: '2018-03-16T19:41:40.604Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,4 +16,6 @@ _context: 'http://schema.org'
 ---
 Make An Entrance like A Boss !!
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/263fcf4e-4686-4d80-84ec-6ad6c59ce8b1.gif" /><h1>Here Comes the Queen </h1><p>Lupita Nyong'o dazzled on the #Oscars red carpet in an African-inspired look in a glittery, gold gown. The black and gold beaded Versace dress featured a sash across her bodice, and the "Black Panther" actress wore gold accessories braided into her hair. https://t.co/FdMWH2SB9N https://t.co/nghqwQvRUP</p></article>
+Lupita Nyong'o dazzled on the \#Oscars red carpet in an African-inspired look in a glittery, gold gown. The black and gold beaded Versace dress featured a sash across her bodice, and the "Black Panther" actress wore gold accessories braided into her hair. https://t.co/FdMWH2SB9N https://t.co/nghqwQvRUP
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/263fcf4e-4686-4d80-84ec-6ad6c59ce8b1.gif" /><h1>Here Comes the Queen </h1></article>
