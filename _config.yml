@@ -1,5 +1,15 @@
+name: BIJOU'S FASHIONS
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f9abb5-eacd-46a9-9dce-4e7096397a85.jpg
 layout_spectrum: 0.579178113166962
 typography_spectrum: 0.7266485354298781
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: 'https://m.facebook.com/BijousFashions/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/755b1ecf-ff98-4ace-a9f1-cce3388393ab.jpg
 color:
   brandColors:
     - '#16193B'
@@ -11,22 +21,10 @@ color:
   lightness: 0.46566743311269376
   saturation: 0.5530606708069803
   rhythmicContrast: 0.4424474480023405
-coverPrefs:
-  filter: false
-name: BIJOU'S FASHIONS
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f9abb5-eacd-46a9-9dce-4e7096397a85.jpg
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: 'https://m.facebook.com/BijousFashions/'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/755b1ecf-ff98-4ace-a9f1-cce3388393ab.jpg
 purpose:
   - type: contact
-    url: 'mailto:sheena@bijousfashions.biz'
     label: Contact me
+    url: 'mailto:sheena@bijousfashions.biz'
 title: Bijou's is the Seamless Merger of you and Elegant Accessories
 description: ''
 author:
@@ -48,23 +46,19 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/8784d8036cd0a3c32df60e3c76694c56e37fd9ba.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: imgflo.herokuapp.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
+      '@context': 'http://schema.org'
       isBasedOnUrl: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/32a1561965a68076af39bf897da504e3/noop.jpg?input=http%3A%2F%2F78.media.tumblr.com%2F85e91512e6f6478ffe391311ea19a334%2Ftumblr_ozeop6pHc71r24v54o1_1280.jpg
-      datePublished: null
+      keywords: []
+      publisher:
+        name: .s3-us-west-2.amazonaws.com
+        domain: imgflo.herokuapp.com
+        url: 'https://s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-url: 'https://bijousfashions.biz'
