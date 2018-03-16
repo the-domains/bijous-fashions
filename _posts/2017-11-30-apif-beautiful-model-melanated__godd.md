@@ -51,8 +51,8 @@ app_links:
 isBasedOnUrl: >-
   http://bijousfashions.tumblr.com/post/167895654100/apif-beautiful-model-melanatedgoddess
 title: "apif: Beautiful \uD83D\uDC99 Model @melanated__godd..."
-datePublished: '2017-11-30T07:57:07.294Z'
-dateModified: '2017-11-30T07:57:06.837Z'
+datePublished: '2018-03-16T18:57:04.229Z'
+dateModified: '2018-03-16T18:57:03.870Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-30-apif-beautiful-model-melanated__godd.md
