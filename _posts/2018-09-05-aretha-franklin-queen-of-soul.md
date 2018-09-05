@@ -1,6 +1,7 @@
 ---
 title: "Aretha Franklin Queen of Soul \uD83C\uDFB6\uD83C\uDFBC\uD83C\uDFB9\uD83D\uDC97\uD83D\uDD4A️"
-dateModified: '2018-09-05T01:21:19.227Z'
+datePublished: '2018-09-05T01:26:26.795Z'
+dateModified: '2018-09-05T01:21:29.952Z'
 publisher: {}
 author: []
 inFeed: true
@@ -9,10 +10,9 @@ description: >-
   possible the gift that God gave me to use. I'm happy with that. " ~ Aretha
   Franklin  (March 25, 1942 – August 16, 2018)
 via: {}
-datePublished: '2018-09-05T01:21:21.054Z'
-sourcePath: _posts/2018-09-05-aretha-franklin-queen-of-soul.md
-starred: false
+starred: true
 datePublishedOriginal: '2018-09-05T01:18:44.387Z'
+sourcePath: _posts/2018-09-05-aretha-franklin-queen-of-soul.md
 _type: Article
 _context: 'http://schema.org'
 
