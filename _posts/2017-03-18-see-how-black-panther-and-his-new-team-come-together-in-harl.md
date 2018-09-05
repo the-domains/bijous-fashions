@@ -1,6 +1,6 @@
 ---
 title: See how Black Panther and his new team come together in Harlem!
-datePublished: '2018-09-05T01:21:21.139Z'
+datePublished: '2018-09-05T01:21:21.140Z'
 dateModified: '2018-09-05T01:21:19.227Z'
 publisher: {}
 author: []
@@ -10,10 +10,10 @@ description: >-
   Butch Guice opens up his “Black Panther & The Crew” sketchbook for a sneak
   peek at mystery and mayhem in Harlem: http://bit.ly/2lTOpGx
 via: {}
-starred: false
-datePublishedOriginal: '2017-03-18T12:23:26.632Z'
 sourcePath: >-
   _posts/2017-03-18-see-how-black-panther-and-his-new-team-come-together-in-harl.md
+starred: false
+datePublishedOriginal: '2017-04-05T06:41:44.986Z'
 url: see-how-black-panther-and-his-new-team-come-together-in-harl/index.html
 _type: Article
 
